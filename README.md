@@ -11,5 +11,14 @@ Consult all Items from the Republic Bank of Colombia with the next values
 
 saved in 'Question Optios' and the result in 'Answer'
 
-Source:
-https://www.larepublica.co/api/quote/recent-quotes?qIds%5B0%5D=2___X
+Response Content Sep.04.2023
+  {
+        "id": "1",
+        "url": "https://www.larepublica.co/indicadores-economicos/mercado-cambiario/dolar",
+        "name": "TRM",
+        "value": "$ 4.063,36",
+        "upDownClass": "down",
+        "absVariation": "-$ 35,84",
+        "perVariation": "-0,87 %"
+    }
+
