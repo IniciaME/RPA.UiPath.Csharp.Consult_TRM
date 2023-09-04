@@ -14,6 +14,7 @@ saved in 'Question Optios' and the result in 'Answer'
 Response Content Sep.04.2023
   {
     "id": "1",
+
     "url": "https://www.larepublica.co/indicadores-economicos/mercado-cambiario/dolar",
     "name": "TRM",
     "value": "$ 4.063,36",
