@@ -49,7 +49,7 @@
         "testCaseId": "f96eb6ea-e74b-4938-8141-ff0930788188",
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
-        "fileName": "API\\TestCase_CurrecyInquirePrice.xaml"
+        "fileName": "Test\\TestCase_CurrecyInquirePrice.xaml"
       }
     ],
     "modernBehavior": true
