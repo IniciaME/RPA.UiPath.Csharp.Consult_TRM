@@ -9,7 +9,7 @@ Consult all Items from the Republic Bank of Colombia with the next values
 5. EUR Exchange Buy
 6. EUR Exchange Sell
 
-saved in 'Questio Optios' and the result in 'Answer'
+saved in 'Question Optios' and the result in 'Answer'
 
 Source:
 https://www.larepublica.co/api/quote/recent-quotes?qIds%5B0%5D=2___X
